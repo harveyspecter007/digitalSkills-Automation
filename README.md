@@ -6,9 +6,12 @@ Code To Read Vehicle Registration Details from a Input Text File based on a RegE
 
 Solution:
 
-Read the InputFile and Retrieve the Registration Numbers based on a RegEx and Add it to the List
-Parse the CSV File and Store the Vehicle Details as Key Value Pairs in a Map with Registration Number as Key
-Fed the Input Reg numbers to the website Read the Details from the wePage and Assert it with the values stored in the Map
+Read the InputFile and Retrieve the Registration Numbers based on a RegEx and Add it to the List.
+
+Parse the CSV File and Store the Vehicle Details as Key Value Pairs in a Map with Registration Number as Key.
+
+Fed the Input Reg numbers to the website Read the Details from the wePage and Assert it with the values stored in the Map.
+
 Can use SoftAssert to Run All the Registration Number even if something inbetween Fails.
 
 
