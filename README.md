@@ -1,4 +1,4 @@
-# digitalSkills-Automation
+# digitalSkills-AutomationTest
 
 Task: 
 
