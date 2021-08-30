@@ -12,8 +12,8 @@ Parse the CSV File and Store the Vehicle Details as Key Value Pairs in a Map wit
 
 Fed the Input Reg numbers to the website Read the Details from the wePage and Assert it with the values stored in the Map.
 
-Can use SoftAssert to Run All the Registration Number even if something inbetween Fails.
-
+* Can use SoftAssert to Run All the Registration Numbers check even if something inbetween Fails.
+* Used Scenario Outline so that we can add any number of input and output files which match the pattern
 
 
 **Tools and Technologies Used:**
