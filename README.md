@@ -17,12 +17,13 @@ Can use SoftAssert to Run All the Registration Number even if something inbetwee
 
 
 **Tools and Technologies Used:**
-Java
-Selenium
-Cucumber
-Maven
-OpenCsv
-Intellij
+
+* Java
+* Selenium
+* Cucumber
+* Maven
+* OpenCsv
+* Intellij
 
 **Ways to Execute the Tests:**
 
