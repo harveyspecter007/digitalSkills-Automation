@@ -1,7 +1,7 @@
 # digitalSkills-AutomationTest
 
-**Task: 
-**
+**Task:** 
+
 Code To Read Vehicle Registration Details from a Input Text File based on a RegEx and Compare the Details of the vehicle against a website with the OutPut CSV File
 
 **Solution:**
@@ -16,8 +16,7 @@ Can use SoftAssert to Run All the Registration Number even if something inbetwee
 
 
 
-**Tools and Technologies Used:
-**
+**Tools and Technologies Used:**
 Java
 Selenium
 Cucumber
